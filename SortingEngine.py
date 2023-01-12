@@ -18,6 +18,10 @@ dictionary = {
         "rtf",
         "log",
         "cs",
+        "gdoc",
+        "gsheet",
+        "gslides",
+        "gjam"
     ],
     "Ebooks": ["mobi", "lit", "azw", "epub"],
     "ISO Images": ["iso", "img", "nrg"],
